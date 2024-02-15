@@ -1,0 +1,4 @@
+torch.cuda.is_available()
+
+
+yolo task=segment mode=train epochs=60 data=dataset.yaml model=yolov8x.pt imgsz=640 batch=2

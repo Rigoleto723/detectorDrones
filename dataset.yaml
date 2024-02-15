@@ -1,0 +1,5 @@
+train: /home/rigoleto/OneDrive/UNAD/proyectoGrado/Data/train/
+val: /home/rigoleto/OneDrive/UNAD/proyectoGrado/Data/val/
+test: 
+nc: 1
+names: ['Drone']
